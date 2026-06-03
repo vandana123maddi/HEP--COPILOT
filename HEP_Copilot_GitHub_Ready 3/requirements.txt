@@ -1,0 +1,10 @@
+streamlit
+google-generativeai
+uproot
+awkward
+pandas
+numpy
+plotly
+chromadb
+sentence-transformers
+coffea
