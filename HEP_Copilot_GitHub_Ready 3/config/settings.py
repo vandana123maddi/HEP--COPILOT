@@ -1,2 +1,3 @@
+GEMINI_API_KEY = ""
 
-MODEL='gemini'
+MODEL_NAME = "gemini-2.5-flash"
