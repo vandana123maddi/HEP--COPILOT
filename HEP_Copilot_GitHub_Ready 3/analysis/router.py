@@ -1,7 +1,20 @@
+from analysis.modules.dimuon import run_dimuon_analysis
 
 def route_query(query):
-    q=query.lower()
-    if 'muon' in q: return 'muon_pt'
-    if 'electron' in q: return 'electron_pt'
-    if 'jet' in q: return 'jet_pt'
-    return 'unknown'
+
+    query = query.lower()
+
+    if "dimuon" in query:
+        return run_dimuon_analysis()
+
+    elif "muon" in query:
+        return "Muon Analysis Selected"
+
+    elif "electron" in query:
+        return "Electron Analysis Selected"
+
+    elif "jet" in query:
+        return "Jet Analysis Selected"
+
+    return "Analysis not found"
+
