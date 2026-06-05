@@ -34,19 +34,19 @@ Add your Streamlit URL here
 ### Main Interface version 1.0
 
 ![HEP Copilot Home](pichep/screenshots1:home.png)
-![HEP Copilot Home](screenshots2/home.png)
+![HEP Copilot Home](pichep/screenshots2:home.png)
 
 ### Main Interface version 2.0
 
-![HEP Copilot Home](screenshots/home.png)
+![HEP Copilot Home](pichep/screenshots:home.png)
 
 ### AI Physics Explanations
 
-![Physics Explanation](screenshots/physics_explanation.png)
+![Physics Explanation](pichep/screenshots:physics_explanation.png)
 
 ### CMS Open Data Analysis
 
-![CMS Analysis](screenshots/dimuon_analysis.png)
+![CMS Analysis](pichep/screenshots:dimuon_analysis.png)
 
 
 
