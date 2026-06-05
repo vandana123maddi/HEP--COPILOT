@@ -27,6 +27,12 @@ The system automatically routes queries, performs data analysis when required, g
 🔗 **Streamlit Application:**
 https://hepcopilot.streamlit.app/
 
+🔗 **Reading CMS open Data using uproot:**
+https://youtu.be/a93RbPCuylk?si=XUot8xZxB29GHdqC
+
+🔗 **HEP Copilot prototype video**
+https://youtu.be/hWy2R1G_4is?si=tFZsjqRAAjoOoN8b
+
 ---
 
 ## 📸 Screenshots
