@@ -8,3 +8,4 @@ plotly
 chromadb
 sentence-transformers
 coffea
+fsspec-xrootd
