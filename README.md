@@ -31,7 +31,12 @@ Add your Streamlit URL here
 
 ## 📸 Screenshots
 
-### Main Interface
+### Main Interface version 1.0
+
+![HEP Copilot Home](screenshots1/home.png)
+![HEP Copilot Home](screenshots2/home.png)
+
+### Main Interface version 2.0
 
 ![HEP Copilot Home](screenshots/home.png)
 
