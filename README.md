@@ -25,7 +25,7 @@ The system automatically routes queries, performs data analysis when required, g
 ## 🚀 Live Demo
 
 🔗 **Streamlit Application:**
-Add your Streamlit URL here
+https://hepcopilot.streamlit.app/
 
 ---
 
