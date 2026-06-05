@@ -48,10 +48,6 @@ Add your Streamlit URL here
 
 ![CMS Analysis](screenshots/dimuon_analysis.png)
 
-### Dimuon Mass Spectrum
-
-![Mass Spectrum](screenshots/dimuon_spectrum.png)
-
 
 
 ## ✨ Key Features
