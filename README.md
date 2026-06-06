@@ -24,7 +24,7 @@ The system automatically routes queries, performs data analysis when required, g
 
 ## 🚀 Live Demo
 
-🔗 **Streamlit Application:**
+🔗 **Website Application:**
 https://hepcopilot.streamlit.app/
 
 🔗 **Reading CMS open Data using uproot:**
