@@ -37,7 +37,7 @@ https://youtu.be/hWy2R1G_4is?si=tFZsjqRAAjoOoN8b
 
 ## 📸 Screenshots
 
-### Main Interface version 1.0 (NanoAODRun1 2012 Open Data )
+### Main Interface version 1.0
 
 ![HEP Copilot Home](pichep/screenshots1:home.png)
 ![HEP Copilot Home](pichep/screenshots2:home.png)
